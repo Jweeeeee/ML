@@ -2,7 +2,7 @@
 
 [随机微分方程（SDE）的蒙特卡洛模拟（Python实现）](https://www.jianshu.com/p/74b956f6eb63)
 
-这学期上了**随机过程**这门课，为完成老师布置的作业：模拟**常微分方程（ODE）**和**随机微分方程（SDE）**的图像![ODE](https://upload-images.jianshu.io/upload_images/17813773-0301047e53bff514.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)![SDE](https://upload-images.jianshu.io/upload_images/17813773-b2b6e33cedf28e93.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+这学期上了**随机过程**这门课，为完成老师布置的作业：模拟常微分方程(ODE)和随机微分方程(SDE)的图像![ODE](https://upload-images.jianshu.io/upload_images/17813773-0301047e53bff514.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)![SDE](https://upload-images.jianshu.io/upload_images/17813773-b2b6e33cedf28e93.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 看了一些文章，并在周二课上受到一些启发，在这里趁热总结一下用**Python**模拟常微分方程/随机微分方程的方法，事实上不管用什么语言实现都可以，思路是完全一样的。其中，
